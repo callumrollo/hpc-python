@@ -1,0 +1,11 @@
+name: hpc-python
+dependencies:
+   - python
+   - numpy
+   - numexpr
+   - matplotlib
+   - cython
+   - cffi
+   - mpi4py
+   - ipython
+   - scipy
